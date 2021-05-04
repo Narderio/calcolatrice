@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=ascoltatore
+comment1.params=etichettarisultato\ primonumero\ s\ secondonumero
+comment1.target=ascoltatore(javax.swing.JLabel,\ boolean,\ boolean,\ boolean)
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=e
+comment3.target=int\ inserisciprimonumero(java.awt.event.ActionEvent)
+comment4.params=e
+comment4.target=void\ inseriscisegno(java.awt.event.ActionEvent)
+comment5.params=e
+comment5.target=void\ inseriscisecondonumero(java.awt.event.ActionEvent)
+comment6.params=e
+comment6.target=void\ funzionerisultato(java.awt.event.ActionEvent)
+numComments=7
